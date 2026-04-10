@@ -91,7 +91,7 @@ https://housepredict-sam.streamlit.app/
 
 This project is based on the well-known Kaggle competition:
 
-*
+https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/leaderboard
 
 ---
 
