@@ -75,6 +75,15 @@ This allows exploration of both major types of supervised learning: **classifica
 * Scikit-learn
 * Matplotlib, Seaborn
 * Jupyter Notebook
+* Streamlit
+
+---
+
+## 🌐 Live Demo
+
+👉 Try the deployed app here: 
+
+https://housepredict-sam.streamlit.app/
 
 ---
 
@@ -105,3 +114,4 @@ Machine learning is an iterative process of understanding data, building simple 
 ---
 
 ✨ *A complete foundation project for classification and regression in real-world data science workflows.*
+
